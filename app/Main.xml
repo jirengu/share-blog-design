@@ -1,0 +1,100 @@
+﻿<project version="2.9" name="共享博客项目" ID="2EB9BDAF-C85C-E811-BBAF-B8E8563374E8">
+  <params>
+    <pageParam version="5.2" minAllowVersion="5.2"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1280,3000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="52BDBDAF-C85C-E811-BBAF-B8E8563374E8" expanded="True" code="RNIoEnQx4v" thumbCode="RNIoEnQx4v" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="53DEE1065C5A3742A2F0FE08CD09FECD.png"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+      </images>
+    </page>
+    <page name="博客详情" ID="CCD56DA4-CD5C-E811-BBAF-B8E8563374E8" expanded="True" code="6OPCcsWQ5W" thumbCode="6OPCcsWQ5W" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="74C7A3F25076F3AA056AFFC74689C272.png"/>
+      </images>
+    </page>
+    <page name="创建" ID="7A0D1180-D25C-E811-BBAF-B8E8563374E8" expanded="False" code="oxoqRzkRUB" thumbCode="oxoqRzkRUB" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+      </images>
+    </page>
+    <page name="编辑" ID="52D035B5-D35C-E811-BBAF-B8E8563374E8" expanded="False" code="2kM7Dzc4YA" thumbCode="2kM7Dzc4YA" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+      </images>
+    </page>
+    <page name="用户" ID="FAA10A1F-D05C-E811-BBAF-B8E8563374E8" expanded="True" code="LLKJLLuDGX" thumbCode="LLKJLLuDGX" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+      </images>
+    </page>
+    <page name="我的" ID="68320A93-D15C-E811-BBAF-B8E8563374E8" expanded="False" code="Whi3ryxv4L" thumbCode="Whi3ryxv4L" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+      </images>
+    </page>
+    <page name="登录" ID="688D6DA8-CB5C-E811-BBAF-B8E8563374E8" expanded="True" code="OxEyFWYafP" thumbCode="OxEyFWYafP" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="注册" ID="3824733A-CD5C-E811-BBAF-B8E8563374E8" expanded="True" code="saPAGqOPQo" thumbCode="Ml11wNLbI3" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash>
+    <page name="我的" ID="36C76DC9-CF5C-E811-BBAF-B8E8563374E8" expanded="False" code="nxcFwijLWm" thumbCode="jMsMwNu8DS" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="74C7A3F25076F3AA056AFFC74689C272.png"/>
+      </images>
+    </page>
+    <page name="我的" ID="6442A7E1-CF5C-E811-BBAF-B8E8563374E8" expanded="False" code="xqpLgjdbeW" thumbCode="OW3ADLelA9" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+      </images>
+    </page>
+    <page name="编辑" ID="AA4B9B69-D25C-E811-BBAF-B8E8563374E8" expanded="False" code="juCyMeelG3" thumbCode="3lQc4iCkjo" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="6E6D6863698839BD8858A6C5F26217E8.svg"/>
+      </images>
+    </page>
+    <page name="创建" ID="D8239744-D25C-E811-BBAF-B8E8563374E8" expanded="True" code="2IocdQWb9i" thumbCode="AhL34Hm5Lb" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+        <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+        <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+        <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+        <image key="6E6D6863698839BD8858A6C5F26217E8.svg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="D9D42E45B550439EB110C94563C6988F.png"/>
+    <image key="31980E82A58B9EA5208079FBC236104D.svg"/>
+    <image key="53DEE1065C5A3742A2F0FE08CD09FECD.png"/>
+    <image key="71889F1CD133A9BA2E8E8D826A25BE27.png"/>
+    <image key="851BC02C62F84B6D554955FFED32A806.png"/>
+    <image key="6E6D6863698839BD8858A6C5F26217E8.svg"/>
+    <image key="74C7A3F25076F3AA056AFFC74689C272.png"/>
+  </images>
+</project>
